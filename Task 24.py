@@ -20,3 +20,4 @@ max_berries = max(berries[i] + berries[(i - 1) % N] + berries[(i + 1) % N] for i
 print(f"Number of bushes (N): {N}")
 print(f"Number of berries for each bush': {berries}")
 print(f"MAX: {max_berries}")
+
