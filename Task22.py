@@ -26,3 +26,4 @@ sorted_shared_elements = sorted(shared_elements)
 print("Answer:")
 for element in sorted_shared_elements:
     print(element)
+
